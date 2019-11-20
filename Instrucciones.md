@@ -9,6 +9,8 @@ _git config --global user.email "alan.brito.delgado.1972@gmail.com"_
 _git config --global credential.helper 'cache --timeout=36000_
 ## Cambio de directorio
 ## Clonación de repositorios
+_git clone https://github.com/LuisJoseSanchez/aprende-java-con-ejercicios.git_
+_git clone https://github.com/adobe/brackets.git_
 ## Vista de archivos y directorios en forma de árbol
 ## Actualización de un repositorio en local
 ## Contenido de un directorio
