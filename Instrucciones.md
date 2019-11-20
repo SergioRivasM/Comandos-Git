@@ -10,7 +10,7 @@ _git config --global credential.helper 'cache --timeout=36000_
 ## Cambio de directorio
 ## Clonación de repositorios
 _git clone https://github.com/LuisJoseSanchez/aprende-java-con-ejercicios.git_
-_git clone https://github.com/adobe/brackets.git_
+_git clone https://github.com/adobe/brackets.git._
 ## Vista de archivos y directorios en forma de árbol
 ## Actualización de un repositorio en local
 ## Contenido de un directorio
